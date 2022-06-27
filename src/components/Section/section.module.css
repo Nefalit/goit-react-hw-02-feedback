@@ -1,0 +1,16 @@
+.section{
+    display: block;
+    width: 750px;
+    margin-bottom: 20px;
+    align-items: center;
+
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+}
